@@ -50,8 +50,8 @@ public class VerifyLoginPage extends BaseClass{
 		
 		obj[0][0]=Constants.userName1;
 		obj[0][1]=Constants.password1;
-		//obj[1][0]=Constants.userName2;
-		//obj[1][1]=Constants.password2;
+		obj[1][0]=Constants.userName2;
+		obj[1][1]=Constants.password2;
 		
 		return obj;
 	}
